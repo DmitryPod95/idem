@@ -1,9 +1,10 @@
-# idem
+# Idem
 тестовое задание idem.agency
 
-# требования 
+# Требования 
  - версия PHP 8.1
  - мудуль миграции (https://marketplace.1c-bitrix.ru/solutions/sprint.migration/)
+ - добавить в dbconn.php константу define( "BX_COMP_MANAGED_CACHE" , true), если ее нет, требуется для тегированного кеша
 
 # Описание
 
